@@ -24,13 +24,21 @@ Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
  https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png
 
 Software:
+
 	Read Pitch Wheel
+ 
 		Is metal wheel touched?
+  
 		read rotary encoder relative to where it was first touched
+  
 	Input Audio
+ 
 		Format Removal
+  
 		Pitch shift
+  
 		Formant Reapplication
+  
 	Output Audio
 	
 Research Needed:
