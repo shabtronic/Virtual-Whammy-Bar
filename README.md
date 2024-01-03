@@ -63,9 +63,12 @@ Research Needed:
 		Other?
 		Daisy Seed already has a pitch shift algo - not tested probably a crappy ring buffer thing.
   		https://github.com/breakfastquay/rubberband
-    		https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS
+    		
+      		https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS
+		
+  		https://www.ee.columbia.edu/~dpwe/papers/LaroD99-pvoc.pdf
 	
-	power consumption and battery?
+ 	power consumption and battery?
 		unknown? 250ma@5v?
 		9v PP3 or 4.2v Li-on
 			will the input buffer work at 4.2v?
