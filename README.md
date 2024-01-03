@@ -47,6 +47,7 @@ Research Needed:
 		FFT
 		Other?
 		Daisy Seed already has a pitch shift algo - not tested probably a crappy ring buffer thing.
+  		https://github.com/breakfastquay/rubberband
 	
 	power consumption and battery?
 		unknown? 250ma@5v?
