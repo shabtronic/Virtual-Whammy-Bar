@@ -66,6 +66,7 @@ Research Needed:
     		https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS		
       		https://www.ee.columbia.edu/~dpwe/papers/LaroD99-pvoc.pdf
 		https://www.youtube.com/watch?v=fJUmmcGKZMI
+  		https://www.guitarpitchshifter.com/
 	
  	power consumption and battery?
 		unknown? 250ma@5v?
