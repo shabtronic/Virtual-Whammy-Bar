@@ -17,10 +17,15 @@ Rotary encoder + metal pitch wheel (for capacitive touch)
 Any buttons,switches or jacks
 
 Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
+
 	2x 1m resistor
+ 
 	10uf electrolytic cap
+ 
 	100nf film/poly cap
+ 
 	LM741CN opamp
+ 
  https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png
 
 Software:
