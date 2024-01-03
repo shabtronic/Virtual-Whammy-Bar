@@ -11,7 +11,9 @@ Daisy Seed CPU 480mz Arm-M7 with 96khz 24 bit audio in/out
 https://www.electro-smith.com/daisy/daisy
 
 OLED Screen or Tri color LED
+
 Rotary encoder + metal pitch wheel (for capacitive touch)
+
 Any buttons,switches or jacks
 
 Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
