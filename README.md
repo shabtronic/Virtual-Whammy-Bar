@@ -62,11 +62,16 @@ Research Needed:
 		FFT
 		Other?
 		Daisy Seed already has a pitch shift algo - not tested probably a crappy ring buffer thing.
-  		https://github.com/breakfastquay/rubberband   		
-    		https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS		
-      		https://www.ee.columbia.edu/~dpwe/papers/LaroD99-pvoc.pdf
-		https://www.youtube.com/watch?v=fJUmmcGKZMI
-  		https://www.guitarpitchshifter.com/
+  		
+    https://github.com/breakfastquay/rubberband   		
+    		
+      https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS		
+      		
+	https://www.ee.columbia.edu/~dpwe/papers/LaroD99-pvoc.pdf
+		
+  https://www.youtube.com/watch?v=fJUmmcGKZMI
+  		
+    https://www.guitarpitchshifter.com/
 	
  	power consumption and battery?
 		unknown? 250ma@5v?
