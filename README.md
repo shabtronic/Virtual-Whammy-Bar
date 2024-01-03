@@ -55,22 +55,17 @@ Research Needed:
 	
 	best rotary encoder
 		Current Fav for size/resolution and small amount of cpu connections
-	(https://uk.rs-online.com/web/p/mechanical-rotary-encoders/7377697)
+		(https://uk.rs-online.com/web/p/mechanical-rotary-encoders/7377697)
 			 
 	best pitch shift algo
 		Naive ring buffer
 		FFT
 		Other?
-		Daisy Seed already has a pitch shift algo - not tested probably a crappy ring buffer thing.
-  		
+		Daisy Seed already has a pitch shift algo - not tested probably a crappy ring buffer thing.  		
     		(https://github.com/breakfastquay/rubberband)   		
-    		
       		(https://github.com/Collaboarator/ShortTimeFourierPitchShifterJS)		
-      		
 		(https://www.ee.columbia.edu/~dpwe/papers/LaroD99-pvoc.pdf)
-		
   		(https://www.youtube.com/watch?v=fJUmmcGKZMI)
-  		
     		(https://www.guitarpitchshifter.com/)
 	
  	power consumption and battery?
