@@ -12,7 +12,7 @@ https://www.electro-smith.com/daisy/daisy
 
 RP2040 Cap Touch screen - use as the interface and whammy control. Use I2C comms
 to the Daisy Seed to control the pitch shifter. Needs firmware written for the comms
-and display e.t.c. should be simple enough. RP2040 has LI-ON charge circuit - so RP2040 power the Daisy Seed. 
+and display e.t.c. should be simple enough. RP2040 has LI-ON charge circuit - so RP2040 can power the Daisy Seed. 
 RP2040 on the front of the Guitar near the Volume controls for easy finger access. Daisy Seed on the strap or edge with battery for power.
 https://www.amazon.co.uk/dp/B0C4YV9HRX
 
@@ -84,10 +84,11 @@ Research Needed:
 
 Operating Modes:
 
-	Quantised - touch circle is split into segments for semitone shifting. Will bend up or down - and at variable speed depending on segment movement speed:
+	Quantised - touch circle is split into segments for semitone shifting. Will bend up or down 
+ 	and at variable speed depending on segment movement speed:
  	Smoothed Raw - touch circle bends notes based on arc position from initial touch down point.
   	Vibrato: Amount controlled by distance from center of touch circle.
-  
+  	Maybe have notches on outer part of display for tactile feedback.
 
 Possible Issues:
 
