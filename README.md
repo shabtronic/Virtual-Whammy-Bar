@@ -47,13 +47,10 @@ Research Needed:
 	
 	Software Platform
 		Native Daisy Seed or Arduino
-	
-	OLED Screen, LED Segement display or TriColour LED
-	
-	best rotary encoder
-		Current Fav for size/resolution and small amount of cpu connections
-		<https://uk.rs-online.com/web/p/mechanical-rotary-encoders/7377697>
-			 
+  	Arduino has been tested - it's ok - no hardware SPI - but that's not needed in this project - so it's the preferred platform.
+
+  	RP2040 programming not tested in Arduino get - to do!
+		 
 	best pitch shift algo
 		Naive ring buffer
 		FFT
