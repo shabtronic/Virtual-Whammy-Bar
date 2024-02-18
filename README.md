@@ -15,12 +15,6 @@ to the Daisy Seed to control the pitch shifter. Needs firmware written for the c
 and display e.t.c. should be simple enough. Daisy Seed would power the RP2040. RP2040 on the front of the Guitar near the Volume controls for easy finger access. Daisy Seed on the strap or edge with battery for power.
 https://www.amazon.co.uk/dp/B0C4YV9HRX
 
-
-
-Rotary encoder + metal pitch wheel (for capacitive touch)
-
-Any buttons,switches or jacks
-
 Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
 
 	2x 1m resistor
