@@ -10,6 +10,9 @@ Parts:
 Daisy Seed CPU 480mz Arm-M7 with 96khz 24 bit audio in/out
 https://www.electro-smith.com/daisy/daisy
 
+RP2040 Touch screen - use as the interface and whammy control
+https://www.amazon.co.uk/dp/B0C4YV9HRX
+
 OLED Screen or Tri color LED
 
 Rotary encoder + metal pitch wheel (for capacitive touch)
