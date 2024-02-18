@@ -28,7 +28,11 @@ Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
 	LM741CN opamp
  
  <https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png>
-
+Total Cost:
+	Daisy Seed £30
+	RP2040 Touch £30
+	Buffer parts £10
+£70 incl Vat+Shipping
 Software:
 
 	RP2040 Continually sends Touch Down and Position via I2C to the daisy seed.
