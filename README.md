@@ -12,9 +12,8 @@ https://www.electro-smith.com/daisy/daisy
 
 RP2040 Cap Touch screen - use as the interface and whammy control. Use I2C comms
 to the Daisy Seed to control the pitch shifter. Needs firmware written for the comms
-and display e.t.c. should be simple enough. Daisy Seed would power the RP2040. RP2040 
-on the front of the Guitar near the Volume controls for easy finger access. Daisy Seed 
-on the strap or edge with battery for power.
+and display e.t.c. should be simple enough. RP2040 has LI-ON charge circuit - so RP2040 power the Daisy Seed. 
+RP2040 on the front of the Guitar near the Volume controls for easy finger access. Daisy Seed on the strap or edge with battery for power.
 https://www.amazon.co.uk/dp/B0C4YV9HRX
 
 Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
