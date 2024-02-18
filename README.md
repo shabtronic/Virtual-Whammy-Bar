@@ -29,11 +29,9 @@ Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
 
 Software:
 
-	Read Pitch Wheel
- 
-		Is metal wheel touched?
-  
-		read rotary encoder relative to where it was first touched
+	RP2040 Continually sends Touch Down and Position via I2C to the daisy seed.
+	Daisy seed interprets that data and does whatever: Change pitch, change operating mode e.t.c. RP2040 has automatic gesture recognition - could be handy for other stuff.
+
   
 	Input Audio
  
