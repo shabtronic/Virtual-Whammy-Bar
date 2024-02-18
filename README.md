@@ -51,9 +51,10 @@ Research Needed:
 	
 	Software Platform
 		Native Daisy Seed or Arduino
-  	Arduino has been tested - it's ok - no hardware SPI - but that's not needed in this project - so it's the preferred platform.
+  	Arduino has been tested - it's ok - no hardware SPI - but that's not needed
+   	in this project - so it's the preferred platform.
 
-  	RP2040 programming not tested in Arduino get - to do!
+  	RP2040 programming not tested in Arduino yet - to do!
 		 
 	best pitch shift algo
 		Naive ring buffer
