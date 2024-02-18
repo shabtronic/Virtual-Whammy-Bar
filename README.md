@@ -82,6 +82,13 @@ Research Needed:
 		9v PP3 or 4.2v Li-on
 			will the input buffer work at 4.2v?
 
+Operating Modes:
+
+	Quantised - touch circle is split into segments for semitone shifting. Will bend up or down - and at variable speed depending on segment movement speed:
+ 	Smoothed Raw - touch circle bends notes based on arc position from initial touch down point.
+  	Vibrato: Amount controlled by distance from center of touch circle.
+  
+
 Possible Issues:
 
 RP2040 near pickups may cause interference on high/low gain - investigate this.
