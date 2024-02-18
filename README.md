@@ -27,7 +27,7 @@ Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
  
 	LM741CN opamp
  
- <https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png>
+ 	<https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png>
  
 Total Cost:
 
