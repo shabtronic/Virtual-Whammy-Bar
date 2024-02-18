@@ -83,6 +83,9 @@ Research Needed:
 		9v PP3 or 4.2v Li-on
 			will the input buffer work at 4.2v?
 
+Possible Issues:
+
+RP2040 near pickups may cause interference on high/low gain - investigate this.
 
 Status:
 		
