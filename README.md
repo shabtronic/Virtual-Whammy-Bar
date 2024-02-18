@@ -28,6 +28,7 @@ Input Buffer: (needed to convert guitar Hi-Z to Lo-Z for the Daisy Seed input)
 	LM741CN opamp
  
  <https://github.com/shabtronic/Virtual-Whammy-Bar/blob/main/BufferCircuit.png>
+ 
 Total Cost:
 
 	Daisy Seed £30
@@ -36,7 +37,7 @@ Total Cost:
  
 	Buffer parts £10
  
-£70 incl Vat+Shipping
+	£70 incl Vat+Shipping
 
 
 Software:
